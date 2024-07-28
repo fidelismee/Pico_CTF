@@ -4,7 +4,7 @@
   - [Subchapter 1.1](#subchapter-11)
 - [Chapter 2](#chapter-2)
   - [Subchapter 2.1](#subchapter-21)
-  -[Fidel](#fidel-hesmes)
+-[Fidel](#fidel-hesmes)
 
 # Introduction
 Some introductory text.
